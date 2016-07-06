@@ -1,10 +1,27 @@
 # TDC-iOS
-
-Repositórios com dados das palestras e palestrantes do TDC na trilha iOS
-
 ![alt text](https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg)
+### Repositórios com dados das palestras e palestrantes do TDC na trilha iOS
 
-### TDC 2016 São Paulo
+
+- [TDC trilha iOS](#TDC-trilha-iOS)
+- [TDC São Paulo](#tdc-são-paulo)
+    - [2016](#2016)
+    - [2015](#2015)
+    - [2014](#2014)
+- [TDC Florianópolis](#tdc-flo)
+    - [2016](#2016-flo)
+    - [2015](#2015-flo)
+    - [2014](#2014-flo)
+- [TDC Porto Alegre](#tdc-poa)
+    - [2016](#2016-poa)
+    - [2015](#2015-poa)
+    - [2014](#2014-pos)
+
+## TDC trilha iOS
+
+### TDC São Paulo
+
+#### 2016
  * - A coisa mais sensacional que passou despercebida na WWDC  
   + [Francesco Perrotti Garcia](https://github.com/fpg1503)  
   + [Slides]()
@@ -36,10 +53,9 @@ Repositórios com dados das palestras e palestrantes do TDC na trilha iOS
  * - Compartilhando dados entre aplicativos 
   + [Diego Chohfi Turini ](http://github.com/dchohfi) | [Miguel Bassila](http://github.com/miguelbassila)
   + [Slides](http://pt.slideshare.net/dchohfi/sharing-data-between-ios-apps)
- <br/> <br/> <br/> <br/>
+ <br/> <br/> <br/>
 
-
-### TDC 2015 São Paulo
+#### 2015
  * - Automation culture 
   + [Thiago Penna Lioy](https://github.com/thiagolioy)  
   + [Slides](http://www.slideshare.net/ConcreteS/automation-culture-tdc-2015)
