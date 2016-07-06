@@ -36,4 +36,33 @@ Repositórios com dados das palestras e palestrantes do TDC na trilha iOS
  * - Compartilhando dados entre aplicativos 
   + [Diego Chohfi Turini ](http://github.com/dchohfi) | [Miguel Bassila](http://github.com/miguelbassila)
   + [Slides]()
+ <br/> <br/> <br/> <br/>
+
+
+### TDC 2015 São Paulo
+ * - Automation culture 
+  + [Thiago Penna Lioy](https://github.com/thiagolioy)  
+  + [Slides](http://www.slideshare.net/ConcreteS/automation-culture-tdc-2015)
+  <br/> <br/>
+ * - Ingressos no pulso - Levando festas e ingressos para o Apple Watch  
+  + [Rodrigo Borges Soares](https://github.com/rdgborges) 
+  + [Slides]()
+ <br/> <br/> 
+ * - Esteganografia: Arte Oculta com escovação de Bits 
+  + [Isaac Stevao Sena](https://github.com/isena) 
+  + [Slides]()
  <br/> <br/>
+ * - Sprite Kit no PlayKids
+  + [Francesco Perrotti-Garcia](http://www.github.com/fpg1503)
+  + [Slides]()
+ <br/> <br/>
+ * - 9º Dígito - Uma questão de oportunidade 
+  + [Douglas Fischer](https://github.com/DougFischer)
+  + [Slides]()
+ <br/> <br/>
+ * - Otimizando Mobile Shaders 
+  + [Vinicius Vecchi](https://github.com/vvecchi)
+  + [Slides]()
+ <br/> <br/>
+ <br/> <br/>
+
