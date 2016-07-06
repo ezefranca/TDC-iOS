@@ -1,2 +1,39 @@
 # TDC-iOS
-Repositórios de palestrantes do TDC na trilha iOS
+
+Repositórios com dados das palestras e palestrantes do TDC na trilha iOS
+
+![alt text](https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg)
+
+### TDC 2016 São Paulo
+ * - A coisa mais sensacional que passou despercebida na WWDC  
+  + [Francesco Perrotti Garcia](https://github.com/fpg1503)  
+  + [Slides]()
+  <br/> <br/>
+ * - Firebase: O Kit de ferramentas do desenvolvedor de apps iOS  
+  + [José Papo](https://twitter.com/josepapo) 
+  + [Slides](http://pt.slideshare.net/jpapo/introduo-ao-firebase)
+ <br/> <br/> 
+ * - Fastlane (ou como economizar horas de desenvolvimento a cada semana) 
+  + [Antoine Barrault](https://github.com/barrault01) 
+  + [Slides](https://github.com/barrault01/tdc-2016-fastlane)
+ <br/> <br/>
+ * - Design invisível: uma conversa além dos pixels 
+  + [Marcel Müller](https://twitter.com/grigio)
+  + [Slides]()
+ <br/> <br/>
+ * - Animações no iOS: Como usar? 
+  + [Victor Gabriel Maraccini](https://github.com/vmaraccini)
+  + [Slides]()
+ <br/> <br/>
+ * - Do mobile ao desktop: como portar seu app do iOS para o Mac 
+  + [Guilherme Rambo](http://github.com/insidegui)
+  + [Slides](https://github.com/insidegui/Binge)
+ <br/> <br/>
+ * - Alcançando novos usuários através da Acessibilidade no iOS 
+  + [Juliana Salgado](https://github.com/JuSalgado)
+  + [Slides]()
+ <br/> <br/>
+ * - Compartilhando dados entre aplicativos 
+  + [Diego Chohfi Turini ](http://github.com/dchohfi) | [Miguel Bassila](http://github.com/miguelbassila)
+  + [Slides]()
+ <br/> <br/>
