@@ -62,7 +62,7 @@
   <br/> <br/>
  * - Ingressos no pulso - Levando festas e ingressos para o Apple Watch  
   + [Rodrigo Borges Soares](https://github.com/rdgborges) 
-  + [Slides]()
+  + [Slides](http://www.slideshare.net/rdgborges/ingressos-no-pulso-levando-festas-e-ingressos-para-o-apple-watch)
  <br/> <br/> 
  * - Esteganografia: Arte Oculta com escovação de Bits 
   + [Isaac Stevao Sena](https://github.com/isena) 
@@ -70,11 +70,11 @@
  <br/> <br/>
  * - Sprite Kit no PlayKids
   + [Francesco Perrotti-Garcia](http://www.github.com/fpg1503)
-  + [Slides]()
+  + [Slides](https://speakerdeck.com/fpg1503/spritekit-no-playkids)
  <br/> <br/>
  * - 9º Dígito - Uma questão de oportunidade 
   + [Douglas Fischer](https://github.com/DougFischer)
-  + [Slides]()
+  + [Slides](http://www.slideshare.net/DouglasFischer/tdc-9-dgito-uma-questo-de-oportunidade)
  <br/> <br/>
  * - Otimizando Mobile Shaders 
   + [Vinicius Vecchi](https://github.com/vvecchi)
