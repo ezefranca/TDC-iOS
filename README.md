@@ -8,8 +8,8 @@
     - [2016](#2016)
     - [2015](#2015)
     - [2014](#2014)
-- [TDC Florianópolis](#tdc-flo)
-    - [2016](#2016-flo)
+- [TDC Florianópolis](#tdc-florianópolis)
+    - [2016](#2016)
     - [2015](#2015-flo)
     - [2014](#2014-flo)
 - [TDC Porto Alegre](#tdc-poa)
@@ -19,7 +19,9 @@
 
 ## TDC trilha iOS
 
+***
 ### TDC São Paulo
+***
 
 #### 2016
  * - A coisa mais sensacional que passou despercebida na WWDC  
@@ -55,6 +57,8 @@
   + [Slides](http://pt.slideshare.net/dchohfi/sharing-data-between-ios-apps)
  <br/> <br/> <br/>
 
+***
+
 #### 2015
  * - Automation culture 
   + [Thiago Penna Lioy](https://github.com/thiagolioy)  
@@ -81,6 +85,7 @@
   + [Slides]()
  <br/> <br/> <br/>
 
+***
 #### 2014
  * - iOS antipatterns  
   + [Hanneli Carolina Andreazzi Tavante](https://github.com/hannelita)  
@@ -109,5 +114,64 @@
  * - Arquitetura e refatoração 
   + [Diogo Tridapalli](https://github.com/diogot)
   + [Slides](https://www.infoq.com/br/presentations/arquitetura-e-refatoracao)
- <br/> <br/> <br/>
+ <br/> <br/> <br/> <br/> <br/> <br/>
+
+***
+
+***
+### TDC Florianópolis
+***
+
+#### 2016
+ * - Do MV(X) ao VIP(ER) - Qual arquitetura devo usar? 
+  + [Lucas Fonseca](https://github.com/lucasfonseca) | [Giovane Berny Possebon](https://github.com/giovanepossebon)  
+  + [Slides](http://www.slideshare.net/LucasFonseca2/choosing-the-architecture)
+  <br/> <br/>
+ * - Notification Center Widgets  
+  + [Fernando Cezar Bunn](https://github.com/Bunn) 
+  + [Slides](https://github.com/Bunn/TDC-Widget-iOS-Talk)
+ <br/> <br/> 
+ * - Como armazenar os dados da sua app Swift no Azure  
+  + [Lucas Humenhuk](https://github.com/lcarli) 
+  + [Slides](http://www.slideshare.net/williansrz/plugue-seu-aplicativo-a-nuvem-no-the-developers-conference-florianpolis-2016)
+ <br/> <br/> 
+ * - O mercado iOS no Brasil  
+  +  [Douglas Fischer](https://github.com/DougFischer) 
+  + [Slides](http://www.slideshare.net/DouglasFischer/tdc-floripa-trilha-ios-mercado-ios-no-brasil)
+ <br/> <br/> 
+ * - ReactiveCocoa - Abordagem reactive no iOS
+  + [Carlos Vinícius Real](https://github.com/caljp13) | [Guilherme Endres](https://github.com/gfendres) 
+  + [Slides](https://github.com/barrault01/tdc-2016-fastlane)
+ <br/> <br/>
+ * - 3D Touch
+  + [Pedro van Rooij Costa](https://github.com/pedrovanrooij)
+  + [Slides](http://www.slideshare.net/PedrovanRooijCosta/tdc-3d-touch)
+ <br/> <br/>
+ * - UI Tests no Xcode 
+  + [Guilherme Endres](https://github.com/gfendres)
+  + [Slides](http://arctouch.com/the-developers-conference-tdc/)
+ <br/> <br/>
+ * - Usando POP com Programação Funcional 
+  + [Tales Pinheiro de Andrade](https://github.com/talesp)
+  + [Slides](http://pt.slideshare.net/talesp/usando-pop-com-programao-funcional)
+ <br/> <br/>
+ * - Optionals e o Gato de Scrödinger 
+  + [Francesco Perrotti-Garcia](http://www.github.com/fpg1503)
+  + [Slides](https://speakerdeck.com/fpg1503/optionals-e-o-gato-de-schrodinger)
+ <br/> <br/>
+ * - Gerenciamento de Memória em Swift - The Weak, the Strong, and the Unowned 
+  + [Txai Wieser](https://github.com/txaidw)
+  + [Slides](http://www.slideshare.net/txaidw/gerenciamento-de-memria-em-swift-the-weak-the-strong-and-the-unowned)
+ <br/> <br/>
+ * - tvOS - Showcasing ECHO 
+  + [Vilson Farias](https://github.com/vilsonfarias) | [Guilherme Endres](https://github.com/gfendres) 
+  + [Slides](http://arctouch.com/the-developers-conference-tdc/)
+ <br/> <br/>
+ * - CloudKit, entendendo a nuvem da Apple 
+  + [Rodrigo Freitas](https://gitlab.com/u/rodrigo_leite)
+  + [Slides](http://www.slideshare.net/rodrigo_freitas_leite/the-developer-conference-cloudkit)
+ <br/> <br/>
+ * - Debate - O Futuro da plataforma, dos Apps e da linguagem Swift 
+  + [Slides](http://www.slideshare.net/DouglasFischer/tdc-floripa-trilha-ios-debate-sobre-o-futuro-da-plataforma)
+ <br/> <br/>
 
