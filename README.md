@@ -79,6 +79,35 @@
  * - Otimizando Mobile Shaders 
   + [Vinicius Vecchi](https://github.com/vvecchi)
   + [Slides]()
+ <br/> <br/> <br/>
+
+#### 2014
+ * - iOS antipatterns  
+  + [Hanneli Carolina Andreazzi Tavante](https://github.com/hannelita)  
+  + [Slides](http://www.slideshare.net/hannelita/ios-antipatterns)
+  <br/> <br/>
+ * - Swift em 45 minutos  
+  + [Helder da Rocha](https://github.com/helderdarocha) 
+  + [Slides](http://www.slideshare.net/helderdarocha/swift-em-45-minutos-tdc-sao-paulo-2014)
+ <br/> <br/> 
+ * - iOS SpriteKit. Bóra fazer um jogo? 
+  + [Elton Mendes Vieira JR](https://github.com/eltonmendes/TDCDemos1) 
+  + [Slides](https://github.com/eltonmendes/TDCDemos1)
  <br/> <br/>
+ * - Swift!.opcionais?.oh!.my()?!? 
+  + [Tales Pinheiro de Andrade](https://github.com/talesp)
+  + [Slides](http://pt.slideshare.net/talesp/swift-optionals)
  <br/> <br/>
+ * - MapKit na prática: Desenvolvendo um aplicativo iOS que exibe pontos de interesse 
+  + [Juliana Chahoud](https://github.com/jchahoud/TDC-POIs-Swift)
+  + [Slides](http://www.slideshare.net/julianachahoud/map-kit-tdcjchahoud)
+ <br/> <br/>
+ * - Melhorando a experiência do usuário com Background Fetching 
+  + [George Villasboas](https://github.com/ghvillasboas)
+  + [Slides](https://drive.google.com/file/d/0B0KwdWz7zxc2a0QwNjRmb2ZYQzg/edit)
+ <br/> <br/>
+ * - Arquitetura e refatoração 
+  + [Diogo Tridapalli](https://github.com/diogot)
+  + [Slides](https://www.infoq.com/br/presentations/arquitetura-e-refatoracao)
+ <br/> <br/> <br/>
 
