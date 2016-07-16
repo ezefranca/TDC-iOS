@@ -25,8 +25,8 @@
 
 #### 2016
  * - A coisa mais sensacional que passou despercebida na WWDC  
-  + [Francesco Perrotti Garcia](https://github.com/fpg1503)  
-  + [Slides]()
+  + [Francesco Perrotti-Garcia](https://github.com/fpg1503)  
+  + [Slides](https://speakerdeck.com/fpg1503/a-coisa-mais-sensacional-que-passou-despercebida-na-wwdc)
   <br/> <br/>
  * - Firebase: O Kit de ferramentas do desenvolvedor de apps iOS  
   + [José Papo](https://twitter.com/josepapo) 
