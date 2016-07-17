@@ -160,7 +160,7 @@
   + [Slides](https://speakerdeck.com/fpg1503/optionals-e-o-gato-de-schrodinger)
  <br/> <br/>
  * - Gerenciamento de Memória em Swift - The Weak, the Strong, and the Unowned 
-  + [Txai Wieser](https://github.com/txaidw)
+  + [Txai Wieser](https://github.com/txaiwieser)
   + [Slides](http://www.slideshare.net/txaidw/gerenciamento-de-memria-em-swift-the-weak-the-strong-and-the-unowned)
  <br/> <br/>
  * - tvOS - Showcasing ECHO 
