@@ -38,19 +38,19 @@
  <br/> <br/>
  * - Design invisível: uma conversa além dos pixels 
   + [Marcel Müller](https://twitter.com/grigio)
-  + [Slides]()
+  + [Slides](http://www.slideshare.net/marcelsagui/tdc-design-invisivel)
  <br/> <br/>
  * - Animações no iOS: Como usar? 
   + [Victor Gabriel Maraccini](https://github.com/vmaraccini)
-  + [Slides]()
+  + [Slides](http://www.slideshare.net/VictorMaraccini/tdc-2016-animaes-no-ios)
  <br/> <br/>
  * - Do mobile ao desktop: como portar seu app do iOS para o Mac 
-  + [Guilherme Rambo](http://github.com/insidegui)
-  + [Slides](https://github.com/insidegui/Binge)
+  + [Guilherme Rambo](http://github.com/insidegui/Binge)
+  + [Slides](http://pt.slideshare.net/GuilhermeRambo1/levando-seu-app-do-ios-para-o-macos)
  <br/> <br/>
  * - Alcançando novos usuários através da Acessibilidade no iOS 
   + [Juliana Salgado](https://github.com/JuSalgado)
-  + [Slides]()
+  + [Slides](https://docs.google.com/uc?id=0BxAlAS8mZVB1ZU1yRXcydG5XdUU&export=download)
  <br/> <br/>
  * - Compartilhando dados entre aplicativos 
   + [Diego Chohfi Turini ](http://github.com/dchohfi) | [Miguel Bassila](http://github.com/miguelbassila)
@@ -70,7 +70,7 @@
  <br/> <br/> 
  * - Esteganografia: Arte Oculta com escovação de Bits 
   + [Isaac Stevao Sena](https://github.com/isena) 
-  + [Slides]()
+  + [Slides](https://nullonerror.org/2015/04/05/escondendo-informacoes-dentro-de-imagens/)
  <br/> <br/>
  * - Sprite Kit no PlayKids
   + [Francesco Perrotti-Garcia](http://www.github.com/fpg1503)
