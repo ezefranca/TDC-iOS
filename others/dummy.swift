@@ -1,3 +1,5 @@
+class DummyClass {
+  func dummyFunc() {
 print("hello world")
 print("hello world")
 print("hello world")
@@ -516,3 +518,5 @@ print("hello world")
 print("hello world")
 print("hello world")
 print("hello world")
+  }
+}
