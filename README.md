@@ -9,18 +9,19 @@
     - [2015](#2015)
     - [2014](#2014)
 - [TDC Florianópolis](#tdc-florianópolis)
+    - [2017](#2017)
     - [2016](#2016)
-    - [2015](#2015-flo)
-    - [2014](#2014-flo)
-- [TDC Porto Alegre](#tdc-poa)
-    - [2016](#2016-poa)
-    - [2015](#2015-poa)
-    - [2014](#2014-pos)
+    - [2015](#2015)
+    - [2014](#2014)
+- [TDC Porto Alegre](#tdc-porto-alegre)
+    - [2016](#2016)
+    - [2015](#2015)
+    - [2014](#2014)
 
-## TDC trilha iOS
+# TDC trilha iOS
 
 ***
-### TDC São Paulo
+## TDC São Paulo
 ***
 
 #### 2016
@@ -119,10 +120,57 @@
 ***
 
 ***
-### TDC Florianópolis
+## TDC Florianópolis
 ***
 
+#### 2017
+
+ * - HomeKit 101
+  + [Ezequiel França](https://github.com/ezefranca)   
+  + [Slides]()
+  <br/> <br/>
+ * - App Extensions: Além do App  
+  + [---](https://github.com) 
+  + [Slides]()
+ <br/> <br/> 
+ * - Programação orientada a protocolos: como aproveitar o que o Swift tem de melhor? 
+  + [Vilson Farias](https://github.com/vilsonfarias) | [Alex de Magalhães Machado](https://www.linkedin.com/in/alex-de-magalh%C3%A3es-machado-3b4a6724/) 
+  + [Slides]()
+ <br/> <br/> 
+ * - Debugging Tricks - LLDB é seu amigo. 
+  + [Fernando Cezar Bunn](https://github.com/Bunn) 
+  + [Slides]()
+ <br/> <br/> 
+ * - Going Raw with animations
+  + [Ivan Seidel Gomes](https://github.com/ivanseidel)
+  + [Slides]()
+ <br/> <br/>
+ * - Uma técnica (e mais alguns truques) para modularizar seu app
+  + [Tales Pinheiro de Andrade](https://github.com/talesp)
+  + [Slides]()
+ <br/> <br/>
+ * - Minha aplicação iOS precisa ser reativa? 
+  + [Guilherme Endres](https://github.com/)
+  + [Slides]()
+ <br/> <br/>
+ * - 10 dicas que irão melhorar a sua rotina de desenvolvimento (a nº 7 vai te impressionar) 
+  + [Guilherme Rambo](http://github.com/insidegui) | [Daniel Bonates](https://github.com/dbonates)
+  + [Slides]()
+ <br/> <br/>
+ * - Swift and Objective-C integration 
+  + [Marcelo Wagner Gobetti](https://github.com/gobetti)
+  + [Slides]()
+ <br/> <br/>
+ * - Seu app está seguro?
+  + [Marcus Vinicius Kuquert](https://github.com/kuquert)
+  + [Slides]()
+ <br/> <br/>
+ * - Fish Bowl / Debate sobre melhores práticas 
+  + [Slides]()
+ <br/> <br/>
+
 #### 2016
+
  * - Do MV(X) ao VIP(ER) - Qual arquitetura devo usar? 
   + [Lucas Fonseca](https://github.com/lucasfonseca) | [Giovane Berny Possebon](https://github.com/giovanepossebon)  
   + [Slides](http://www.slideshare.net/LucasFonseca2/choosing-the-architecture)
@@ -174,4 +222,12 @@
  * - Debate - O Futuro da plataforma, dos Apps e da linguagem Swift 
   + [Slides](http://www.slideshare.net/DouglasFischer/tdc-floripa-trilha-ios-debate-sobre-o-futuro-da-plataforma)
  <br/> <br/>
+ 
+ ***
+## TDC Porto Alegre
+***
 
+#### 2017
+#### 2016
+#### 2015
+#### 2014
