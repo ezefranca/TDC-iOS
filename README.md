@@ -228,6 +228,16 @@
 ***
 
 #### 2017
+ * - Introdução ao CoreML
+  + [Henrique Valcanaia](https://github.com/henriqueiv)  
+  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-poa-2017-coreml)
+  <br/> <br/>
+
 #### 2016
+ * - Você está errando errado! Lidando com erros em Swift.
+  + [Henrique Valcanaia](https://github.com/henriqueiv)  
+  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-porto-alegre-2016-error-handling-with-swift)
+  <br/> <br/>
+
 #### 2015
 #### 2014
