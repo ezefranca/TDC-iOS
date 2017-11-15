@@ -228,6 +228,11 @@
 ***
 
 #### 2017
+* - Desenvolvendo aplicativos standalone para o watchOS
+  + [Guilherme Girotto](https://www.linkedin.com/in/ggirotto/) | [Jonata Santos](https://www.linkedin.com/in/jonata-correa-669183126/)  
+  + [Slides](https://www.slideshare.net/GuilhermeGirotto2/desenvolvendo-aplicaes-standalone-para-o-watchos)
+  <br/> <br/>
+
 #### 2016
 #### 2015
 #### 2014
