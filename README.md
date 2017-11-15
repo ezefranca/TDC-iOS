@@ -229,6 +229,12 @@
 
 #### 2017
 
+* Acessibilidade no iOS 
+  + [Gabriel Oliva](https://github.com/gabrieloliva)
+  + [Vídeo](https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-5/)
+  + [Slide](https://speakerdeck.com/gabrieloliva/tdc-acessibilidade-no-ios)
+  + [Markdown (deckset)](https://github.com/gabrieloliva/talks/tree/master/markdowns/TDC%20-%20Acessibilidade%20no%20iOS)
+<br/> <br/>
 
  * - Desenvolvendo aplicativos standalone para o watchOS
   + [Guilherme Girotto](https://www.linkedin.com/in/ggirotto/) | [Jonata Santos](https://www.linkedin.com/in/jonata-correa-669183126/)  
