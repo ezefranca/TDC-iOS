@@ -231,7 +231,7 @@
 * Acessibilidade no iOS 
   + [Gabriel Oliva](https://github.com/gabrieloliva)
   + [Slide](https://speakerdeck.com/gabrieloliva/tdc-acessibilidade-no-ios)
-  + [Markdown (deckset)](markdowns/TDC%20-%20Acessibilidade%20no%20iOS)
+  + [Markdown (deckset)](https://github.com/gabrieloliva/talks/tree/master/markdowns/TDC%20-%20Acessibilidade%20no%20iOS)
 
 #### 2016
 #### 2015
