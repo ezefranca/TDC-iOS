@@ -228,11 +228,26 @@
 ***
 
 #### 2017
+
 * Acessibilidade no iOS 
   + [Gabriel Oliva](https://github.com/gabrieloliva)
   + [Slide](https://speakerdeck.com/gabrieloliva/tdc-acessibilidade-no-ios)
   + [Markdown (deckset)](https://github.com/gabrieloliva/talks/tree/master/markdowns/TDC%20-%20Acessibilidade%20no%20iOS)
+<br/> <br/>
+ * - Desenvolvendo aplicativos standalone para o watchOS
+  + [Guilherme Girotto](https://www.linkedin.com/in/ggirotto/) | [Jonata Santos](https://www.linkedin.com/in/jonata-correa-669183126/)  
+  + [Slides](https://www.slideshare.net/GuilhermeGirotto2/desenvolvendo-aplicaes-standalone-para-o-watchos)
+<br/> <br/>
+ * - Introdução ao CoreML
+  + [Henrique Valcanaia](https://github.com/henriqueiv)  
+  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-poa-2017-coreml)
+  <br/> <br/>
 
 #### 2016
+ * - Você está errando errado! Lidando com erros em Swift.
+  + [Henrique Valcanaia](https://github.com/henriqueiv)  
+  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-porto-alegre-2016-error-handling-with-swift)
+  <br/> <br/>
+
 #### 2015
 #### 2014
