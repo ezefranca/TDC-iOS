@@ -5,15 +5,18 @@
 
 - [TDC trilha iOS](#TDC-trilha-iOS)
 - [TDC São Paulo](#tdc-são-paulo)
+    - [2017](#2017)
     - [2016](#2016)
     - [2015](#2015)
     - [2014](#2014)
 - [TDC Florianópolis](#tdc-florianópolis)
+    - [2018](#2018)
     - [2017](#2017)
     - [2016](#2016)
     - [2015](#2015)
     - [2014](#2014)
 - [TDC Porto Alegre](#tdc-porto-alegre)
+    - [2017](#2017)
     - [2016](#2016)
     - [2015](#2015)
     - [2014](#2014)
@@ -25,6 +28,7 @@
 ***
 
 #### 2016
+
  * - A coisa mais sensacional que passou despercebida na WWDC  
   + [Francesco Perrotti-Garcia](https://github.com/fpg1503)  
   + [Slides](https://speakerdeck.com/fpg1503/a-coisa-mais-sensacional-que-passou-despercebida-na-wwdc)
@@ -61,6 +65,7 @@
 ***
 
 #### 2015
+
  * - Automation culture 
   + [Thiago Penna Lioy](https://github.com/thiagolioy)  
   + [Slides](http://www.slideshare.net/ConcreteS/automation-culture-tdc-2015)
@@ -88,6 +93,7 @@
 
 ***
 #### 2014
+
  * - iOS antipatterns  
   + [Hanneli Carolina Andreazzi Tavante](https://github.com/hannelita)  
   + [Slides](http://www.slideshare.net/hannelita/ios-antipatterns)
@@ -229,23 +235,70 @@
 
 #### 2017
 
-* Acessibilidade no iOS 
+* - Constraints - O que são? De onde vêm? Do que se alimentam? 
+  + [Aline Kolczycki Borges](https://twitter.com/@alieeen)
+  + [Slide]()
+<br/> <br/>
+
+ * - Swift and ObjC integration
+  + [Marcelo Wagner Gobetti](https://www.linkedin.com/in/)
+  + [Slides]()
+<br/> <br/>
+
+ * - De um app para o outro: Integrando com o Drag and Drop do iOS 11
+  + [Rodrigo Borges Soares](https://www.linkedin.com/in/)
+  + [Slides]()
+<br/> <br/>
+
+ * - Developing standalone experiences for watchOS 4
+  + [Guilherme Girotto](https://www.linkedin.com/in/ggirotto/) | [Jonata Santos](https://www.linkedin.com/in/jonata-correa-669183126/)  
+  + [Slides](https://www.slideshare.net/GuilhermeGirotto2/desenvolvendo-aplicaes-standalone-para-o-watchos)
+<br/> <br/>
+
+ * - Introdução ao CoreML
+  + [Henrique Valcanaia](https://github.com/henriqueiv)  
+  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-poa-2017-coreml)
+<br/> <br/>
+
+ * - Introdução ao Swift na linha de comando
+  + [Tales Pinheiro](https://www.linkedin.com/in/ggirotto/)
+  + [Slides]()
+<br/> <br/>
+
+* - Acessibilidade no iOS 
   + [Gabriel Oliva](https://github.com/gabrieloliva)
   + [Vídeo](https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-5/)
   + [Slide](https://speakerdeck.com/gabrieloliva/tdc-acessibilidade-no-ios)
   + [Markdown (deckset)](https://github.com/gabrieloliva/talks/tree/master/markdowns/TDC%20-%20Acessibilidade%20no%20iOS)
 <br/> <br/>
 
- * - Desenvolvendo aplicativos standalone para o watchOS
-  + [Guilherme Girotto](https://www.linkedin.com/in/ggirotto/) | [Jonata Santos](https://www.linkedin.com/in/jonata-correa-669183126/)  
-  + [Slides](https://www.slideshare.net/GuilhermeGirotto2/desenvolvendo-aplicaes-standalone-para-o-watchos)
+ * - Técnicas para deixar seu app seguro
+  + [Marcus Vinicius Kuquert](https://www.linkedin.com/in/)
+  + [Slides]()
 <br/> <br/>
- * - Introdução ao CoreML
-  + [Henrique Valcanaia](https://github.com/henriqueiv)  
-  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-poa-2017-coreml)
-  <br/> <br/>
+
+ * - RxSwift worst practices
+  + [Marcelo Wagner Gobetti](https://www.linkedin.com/in/)
+  + [Slides]()
+<br/> <br/>
+
+ * - Como criei o aplicativo do maior banco de investimentos da América latina em 1 dia  
+  + [Gabriel Vieira Figueiredo Tomaz](https://www.linkedin.com/in/)
+  + [Slides]()
+<br/> <br/>
+
+ * - Profissionalismo e TDD
+  + [Carlos Corrêa da Silva](https://www.linkedin.com/in/)
+  + [Slides]()
+<br/> <br/>
+
+ * - Desvendando a mágica do ARKit
+  + [Bruno da Silva Dorneles](https://www.linkedin.com/in/)
+  + [Slides]()
+<br/> <br/>
 
 #### 2016
+
  * - Você está errando errado! Lidando com erros em Swift.
   + [Henrique Valcanaia](https://github.com/henriqueiv)  
   + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-porto-alegre-2016-error-handling-with-swift)
