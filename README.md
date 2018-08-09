@@ -71,18 +71,18 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   <br/> <br/>
   
   * - Using motion to increase app awesomeness 
-	  + [Aline Kolczycki Borges](https://twitter.com/@alieeen)  
-	  + [Slides]()
+	+ [Aline Kolczycki Borges](https://twitter.com/@alieeen)  
+	+ [Slides]()
   <br/> <br/>
   
   * - Por que eu criei uma biblioteca Open Source?
-	  + [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigoo)  
-	  + [Slides]()
+	+ [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigo_)  
+	+ [Slides]()
   <br/> <br/>
   
   * - Usando uma abordagem orientada a dados na criação e evolução de funcionalidades do aplicativo Pinterest para iOS  
-	  + [Rocir Santiago](https://twitter.com/@rmls)  
-	  + [Slides]()
+	+ [Rocir Santiago](https://twitter.com/@rmls)  
+	+ [Slides]()
   <br/> <br/>
   
 
