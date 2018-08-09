@@ -29,7 +29,105 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 ## TDC São Paulo
 
 #### 2018
+
+   * - Criando apps iOS escaláveis  
+	  + [Bruno Rocha](https://github.com/rockthebruno)  
+	  + [Slides](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-ios-criando-apps-ios-escalaveis)
+  <br/> <br/>
+  
+   * - Swift no back-end com Vapor  
+	  + [Matheus Cardoso](https://twitter.com/@cardosodev)  
+	  + [Slides]()
+  <br/> <br/>
+   
+   * - Como lançar seu app na App Store e ficar rico (ou não)  
+	  + [Guilherme Rambo](https://github.com/insidegui)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - Siri Shortcuts: fazendo seu app falar 
+	  + [Guilherme Rambo](https://github.com/insidegui)  
+	  + [Slides](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-ios-siri-shortcuts-fazendo-seu-app-falar)
+  <br/> <br/>
+
+   * - ARKit: Explorando realidade aumentada  
+	  + [Vitor Navarro](https://twitter.com/vitor_navarro)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - Efeitos colaterais em apps iOS: isolando-os e atingindo máxima testabilidade na prática  
+	  + [Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_)  
+	  + [Slides]()
+  <br/> <br/>
+   
+   * - VIPER, MVP, MVVM e outros M-alguma-coisa: eles não são suficientes  
+	  + [Leandro Alonso](https://twitter.com/leandrow)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - iOS Video Streaming  
+	  + [Nabil Safatli](https://twitter.com/@nabil_safatli)  
+	  + [Slides]()
+  <br/> <br/>
+  
+  * - Using motion to increase app awesomeness 
+	  + [Aline Kolczycki Borges](https://twitter.com/@alieeen)  
+	  + [Slides]()
+  <br/> <br/>
+  
+  * - Por que eu criei uma biblioteca Open Source?
+	  + [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigoo)  
+	  + [Slides]()
+  <br/> <br/>
+  
+  * - Usando uma abordagem orientada a dados na criação e evolução de funcionalidades do aplicativo Pinterest para iOS  
+	  + [Rocir Santiago](https://twitter.com/@rmls)  
+	  + [Slides]()
+  <br/> <br/>
+  
+
 #### 2017
+
+   * - Como lançar seu app na App Store e ficar rico (ou não)  
+	  + [Guilherme Rambo](https://github.com/insidegui)  
+	  + [Slides](https://www.slideshare.net/tdc-globalcode/tdc2017-so-paulo-trilha-ios-how-we-figured-out-we-had-a-sre-team-at-como-lanar-seu-app-na-app-store-e-ficar-rico-ou-no)
+  <br/> <br/>
+  
+   * - Redux + RxSwift: fluxos undirecionais de dados  
+	  + [Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_)  
+	  + [Slides](https://pt.slideshare.net/tdc-globalcode/tdc2017-so-paulo-trilha-ios-how-we-figured-out-we-had-a-sre-team-at-redux-rxswift-fluxos-undirecionais-de-dados)
+  <br/> <br/>
+  
+   * - Layout por código: aumentando sua produtividade e reuso de código  
+	  + [Francesco Perrotti-Garcia](https://github.com/fpg1503)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - iOS Security: Ataques a aplicações iOS (e como se proteger deles)   
+	  + [Bruno Rocha](https://twitter.com/@rockthebruno)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - Tricks & Tips do Realm no iOS  
+	  + [Rafael Kellermann Streit](https://twitter.com/rafaelks)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - Homebridge - Integrando o HomeKit com dispositivos IoT e automação  
+	  + [Alliston Carlos Rosa Aleixo](https://twitter.com/@allistoncarlos)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - UIView 101 - Um guia geral sobre como funciona UIView, CALayer e Autolayout  
+	  + [Bruno Gondim Bilescky](https://twitter.com/@bgondim)  
+	  + [Slides]()
+  <br/> <br/>
+  
+   * - Reconstruindo o Pinterest como um aplicativo escalável e de alta performance  
+	  + [Rocir Santiago](https://twitter.com/@rmls)  
+	  + [Video](https://pt-br.eventials.com/Globalcode/tdc-sp-2017-stadium-quinta-12/) 
+  <br/> <br/>
+  
 #### 2016
 
  * - A coisa mais sensacional que passou despercebida na WWDC  
