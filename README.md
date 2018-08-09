@@ -1,10 +1,10 @@
+[<img src="https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg" alt="TDC" align="left" width="200">](http://www.thedevelopersconference.com.br)
 # TDC - Trilha iOS 
-![alt text](https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg)
-
-[<img src="https://pbs.twimg.com/profile_images/579985773610532864/cVI4GFs4_400x400.png" alt="TDC" align="right" width="70">](http://www.thedevelopersconference.com.br)
 
 Repositório com dados das palestras e palestrantes do [The Developers Conference]() na trilha iOS.
 
+
+[<img src="https://pbs.twimg.com/profile_images/579985773610532864/cVI4GFs4_400x400.png" alt="TDC" align="right" width="70">](http://www.thedevelopersconference.com.br)
 ## Edições
 
 - [TDC São Paulo](#tdc-são-paulo)
