@@ -1,8 +1,8 @@
-[<img src="https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg" alt="TDC" align="left" width="200">](http://www.thedevelopersconference.com.br)
+[<img src="https://s3-sa-east-1.amazonaws.com/globalcodesp/tdc/2015/img/logo/logo-tdc-horizontal.svg" alt="TDC" align="left" width="180">](http://www.thedevelopersconference.com.br)
 # TDC - Trilha iOS 
 
-Repositório com dados das palestras e palestrantes do [The Developers Conference]() na trilha iOS.
 
+Repositório com dados das palestras e palestrantes do [The Developers Conference]() na trilha iOS.
 
 [<img src="https://pbs.twimg.com/profile_images/579985773610532864/cVI4GFs4_400x400.png" alt="TDC" align="right" width="70">](http://www.thedevelopersconference.com.br)
 ## Edições
@@ -24,12 +24,12 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
     - [2017](#2017)
     - [2016](#2016)
 
-***
+
+[<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_sp.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC São Paulo
-***
+
 #### 2018
 #### 2017
-
 #### 2016
 
  * - A coisa mais sensacional que passou despercebida na WWDC  
@@ -121,8 +121,9 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
  * - Arquitetura e refatoração 
 	  + [Diogo Tridapalli](https://github.com/diogot)
 	  + [Slides](https://www.infoq.com/br/presentations/arquitetura-e-refatoracao)
- <br/> <br/> <br/> <br/> <br/> <br/>
+ <br/> <br/> <br/> 
 
+[<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_floripa.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC Florianópolis
 
 #### 2017
@@ -223,8 +224,9 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
  <br/> <br/>
  * - Debate - O Futuro da plataforma, dos Apps e da linguagem Swift 
 	  + [Slides](http://www.slideshare.net/DouglasFischer/tdc-floripa-trilha-ios-debate-sobre-o-futuro-da-plataforma)
- <br/> <br/>
- 
+ <br/> <br/><br/>
+
+[<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_poa.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC Porto Alegre
 
 #### 2017
