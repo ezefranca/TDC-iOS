@@ -37,7 +37,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   
    * - Swift no back-end com Vapor  
 	  + [Matheus Cardoso](https://twitter.com/@cardosodev)  
-	  + [Slides]()
+	  + [Slides](https://speakerdeck.com/cardoso/server-side-swift-with-vapor)
   <br/> <br/>
    
    * - Como lançar seu app na App Store e ficar rico (ou não)  
