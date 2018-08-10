@@ -77,7 +77,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   
   * - Por que eu criei uma biblioteca Open Source?
 	  + [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigoo)  
-	  + [Slides]()
+	  + [Slides](https://speakerdeck.com/ronanrodrigo/por-que-eu-criei-uma-biblioteca-open-source)
   <br/> <br/>
   
   * - Usando uma abordagem orientada a dados na criação e evolução de funcionalidades do aplicativo Pinterest para iOS  
