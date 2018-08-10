@@ -401,6 +401,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
  * - VIPER - Arquitetura limpa em nossos Apps.
 	  + [Ronan Rodrigo Nunes](https://github.com/ronanrodrigo)
 	  + [Slides](https://speakerdeck.com/ronanrodrigo/viper-arquitetura-limpa-em-nossos-apps)
+	  + [Post](https://medium.com/jurassic-park-hackers/viper-arquitetura-de-software-e-carros-bee4a85c613f)
   <br/> <br/>
 
 ## Contribuindo
