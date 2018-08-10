@@ -100,7 +100,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   
    * - Layout por código: aumentando sua produtividade e reuso de código  
 	  + [Francesco Perrotti-Garcia](https://github.com/fpg1503)  
-	  + [Slides]()
+	  + [Slides](https://github.com/fpg1503/ProgrammaticLayoutTalk)
   <br/> <br/>
   
    * - iOS Security: Ataques a aplicações iOS (e como se proteger deles)   
