@@ -37,7 +37,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   
    * - Swift no back-end com Vapor  
 	  + [Matheus Cardoso](https://twitter.com/@cardosodev)  
-	  + [Slides]()
+	  + [Slides](https://speakerdeck.com/cardoso/server-side-swift-with-vapor)
   <br/> <br/>
    
    * - Como lançar seu app na App Store e ficar rico (ou não)  
@@ -76,8 +76,8 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   <br/> <br/>
   
   * - Por que eu criei uma biblioteca Open Source?
-	+ [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigo_)  
-	+ [Slides]()
+	  + [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigoo)  
+	  + [Slides](https://speakerdeck.com/ronanrodrigo/por-que-eu-criei-uma-biblioteca-open-source)
   <br/> <br/>
   
   * - Usando uma abordagem orientada a dados na criação e evolução de funcionalidades do aplicativo Pinterest para iOS  
@@ -396,6 +396,12 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
  * - Você está errando errado! Lidando com erros em Swift.
 	  + [Henrique Valcanaia](https://github.com/henriqueiv)  
 	  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-porto-alegre-2016-error-handling-with-swift)
+  <br/> <br/>
+
+ * - VIPER - Arquitetura limpa em nossos Apps.
+	  + [Ronan Rodrigo Nunes](https://github.com/ronanrodrigo)
+	  + [Slides](https://speakerdeck.com/ronanrodrigo/viper-arquitetura-limpa-em-nossos-apps)
+	  + [Post](https://medium.com/jurassic-park-hackers/viper-arquitetura-de-software-e-carros-bee4a85c613f)
   <br/> <br/>
 
 ## Contribuindo
