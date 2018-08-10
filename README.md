@@ -398,6 +398,12 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 	  + [Slides](https://www.slideshare.net/henriqueindalencio/tdc-porto-alegre-2016-error-handling-with-swift)
   <br/> <br/>
 
+ * - VIPER - Arquitetura limpa em nossos Apps.
+	  + [Ronan Rodrigo Nunes](https://github.com/ronanrodrigo)
+	  + [Slides](https://speakerdeck.com/ronanrodrigo/viper-arquitetura-limpa-em-nossos-apps)
+	  + [Post](https://medium.com/jurassic-park-hackers/viper-arquitetura-de-software-e-carros-bee4a85c613f)
+  <br/> <br/>
+
 ## Contribuindo
 
 A lista de palestras e palestrantes é uma iniciativa não vinculada oficialmente ao TDC, e todo e qualquer conteúdo aqui, incluindo slides, vídeos e links de redes sociais é de direito único e exclusivo dos devidos autores. Os dados são coletados na página do TDC ou através de contribuição, entretanto alguns palestrantes acabam não divulgando os slides.
