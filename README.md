@@ -53,7 +53,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   <br/> <br/>
   * - Efeitos colaterais em apps iOS: isolando-os e atingindo máxima testabilidade na prática  
 	  + [Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_)  
-	  + [Slides]()
+	  + [Slides](https://speakerdeck.com/fellipecaetano/efeitos-colaterais-em-apps-ios-isolando-os-e-atingindo-maxima-testabilidade-na-pratica)
   <br/> <br/>
   * - VIPER, MVP, MVVM e outros M-alguma-coisa: eles não são suficientes  
 	  + [Leandro Alonso](https://twitter.com/leandrow)  
