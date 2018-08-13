@@ -57,7 +57,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   <br/> <br/>
   * - VIPER, MVP, MVVM e outros M-alguma-coisa: eles não são suficientes  
 	  + [Leandro Alonso](https://twitter.com/leandrow)  
-	  + [Slides]()
+	  + [Slides](https://www.slideshare.net/LeandroAlonso1/como-escrever-apps-de-qualidade-em-qualquer-arquitetura)
   <br/> <br/>
   * - iOS Video Streaming  
 	  + [Nabil Safatli](https://twitter.com/@nabil_safatli)  
