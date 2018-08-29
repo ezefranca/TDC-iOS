@@ -49,7 +49,8 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
   <br/> <br/>
   * - ARKit: Explorando realidade aumentada  
 	  + [Vitor Navarro](https://twitter.com/vitor_navarro)  
-	  + [Slides]()
+	  + [Slides](http://vnavarro.com.br/assets/TDC2018-ARKit.pdf)
+	  + [Palestra](https://youtu.be/LyOOFB9bcaE)
   <br/> <br/>
   * - Efeitos colaterais em apps iOS: isolando-os e atingindo máxima testabilidade na prática  
 	  + [Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_)  
