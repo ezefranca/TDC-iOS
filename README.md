@@ -7,76 +7,34 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 [<img src="https://pbs.twimg.com/profile_images/579985773610532864/cVI4GFs4_400x400.png" alt="TDC" align="right" width="70">](http://www.thedevelopersconference.com.br)
 ## Edições
 
-- [TDC São Paulo](#tdc-são-paulo)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-    - [2015](#2015)
-    - [2014](#2014)
-    
-- [TDC Florianópolis](#tdc-florianópolis)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-    - [2015](#2015)
-    - [2014](#2014)
-    
-- [TDC Porto Alegre](#tdc-porto-alegre)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-
+|[TDC São Paulo](#tdc-são-paulo)   | [TDC Florianópolis](#tdc-florianópolis)  |  [TDC Porto Alegre](#tdc-porto-alegre)|
+|---|---|---|
+|[2020](#2020sp) |[2020](#2020fp)   | [2020](#2020poa)
+|[2019](#2019sp) |[2019](#2019fp)   | [2019](#2019poa)
+|[2018](#2018) |[2018](#2018)   | [2018](#2018)
+|[2017](#2017sp) |[2017](#2017fp)   | [2017](#2017poa)
+|[2016](#2016sp) |[2016](#2016fp)   | [2016](#2016poa)
+|[2015](#2015sp) |    |
+|[2014](#2014sp) |    | 
 
 [<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_sp.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC São Paulo
 
 #### 2018
-  * - Criando apps iOS escaláveis  
-	  + [Bruno Rocha](https://github.com/rockthebruno)  
-	  + [Slides](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-ios-criando-apps-ios-escalaveis)
-  <br/> <br/>
-  * - Swift no back-end com Vapor  
-	  + [Matheus Cardoso](https://twitter.com/@cardosodev)  
-	  + [Slides](https://speakerdeck.com/cardoso/server-side-swift-with-vapor)
-  <br/> <br/>
-  * - Como lançar seu app na App Store e ficar rico (ou não)  
-	  + [Guilherme Rambo](https://github.com/insidegui)  
-	  + [Slides]()
-  <br/> <br/>
-  * - Siri Shortcuts: fazendo seu app falar 
-	  + [Guilherme Rambo](https://github.com/insidegui)  
-	  + [Slides](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-ios-siri-shortcuts-fazendo-seu-app-falar)
-  <br/> <br/>
-  * - ARKit: Explorando realidade aumentada  
-	  + [Vitor Navarro](https://twitter.com/vitor_navarro)  
-	  + [Slides](http://vnavarro.com.br/assets/TDC2018-ARKit.pdf)
-	  + [Palestra](https://youtu.be/LyOOFB9bcaE)
-  <br/> <br/>
-  * - Efeitos colaterais em apps iOS: isolando-os e atingindo máxima testabilidade na prática  
-	  + [Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_)  
-	  + [Slides](https://speakerdeck.com/fellipecaetano/efeitos-colaterais-em-apps-ios-isolando-os-e-atingindo-maxima-testabilidade-na-pratica)
-  <br/> <br/>
-  * - VIPER, MVP, MVVM e outros M-alguma-coisa: eles não são suficientes  
-	  + [Leandro Alonso](https://twitter.com/leandrow)  
-	  + [Slides](https://www.slideshare.net/LeandroAlonso1/como-escrever-apps-de-qualidade-em-qualquer-arquitetura)
-  <br/> <br/>
-  * - iOS Video Streaming  
-	  + [Nabil Safatli](https://twitter.com/@nabil_safatli)  
-	  + [Slides]()
-  <br/> <br/>
-  * - Using motion to increase app awesomeness 
-	+ [Aline Kolczycki Borges](https://twitter.com/@alieeen)  
-	+ [Slides]()
-  <br/> <br/>
-  * - Por que eu criei uma biblioteca Open Source?
-	  + [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigoo)  
-	  + [Slides](https://speakerdeck.com/ronanrodrigo/por-que-eu-criei-uma-biblioteca-open-source)
-  <br/> <br/>
-  * - Usando uma abordagem orientada a dados na criação e evolução de funcionalidades do aplicativo Pinterest para iOS  
-	  + [Rocir Santiago](https://twitter.com/@rmls)  
-	  + [Slides]()
-  <br/> <br/>
-  
+
+|**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver) |
+|---|---|---|---|
+|Criando apps iOS escaláveis    |[Bruno Rocha](https://github.com/rockthebruno)   |[Slides](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-ios-criando-apps-ios-escalaveis)   ||
+|Swift no back-end com Vapor   |[Matheus Cardoso](https://twitter.com/@cardosodev)   | [Slides](https://speakerdeck.com/cardoso/server-side-swift-with-vapor)  ||
+|Como lançar seu app na App Store e ficar rico (ou não)    |[Guilherme Rambo](https://github.com/insidegui)   |[Slides]()   ||
+|Siri Shortcuts: fazendo seu app falar   |[Guilherme Rambo](https://github.com/insidegui)   |[Slides](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-ios-siri-shortcuts-fazendo-seu-app-falar)   ||
+|ARKit: Explorando realidade aumentada   |[Vitor Navarro](https://twitter.com/vitor_navarro)   |[Slides](http://vnavarro.com.br/assets/TDC2018-ARKit.pdf)   |[Palestra](https://youtu.be/LyOOFB9bcaE)|
+|Efeitos colaterais em apps iOS: isolando-os e atingindo máxima testabilidade na prática     |[Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_)   |  [Slides](https://speakerdeck.com/fellipecaetano/efeitos-colaterais-em-apps-ios-isolando-os-e-atingindo-maxima-testabilidade-na-pratica) ||
+|VIPER, MVP, MVVM e outros M-alguma-coisa: eles não são suficientes    |[Leandro Alonso](https://twitter.com/leandrow)   |[Slides](https://www.slideshare.net/LeandroAlonso1/como-escrever-apps-de-qualidade-em-qualquer-arquitetura)   ||
+|iOS Video Streaming   | [Nabil Safatli](https://twitter.com/@nabil_safatli)  | [Slides]()  ||
+|Using motion to increase app awesomeness    | [Aline Kolczycki Borges](https://twitter.com/@alieeen)   | [Slides]()  ||
+|Por que eu criei uma biblioteca Open Source?   | [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigoo)  |  [Slides](https://speakerdeck.com/ronanrodrigo/por-que-eu-criei-uma-biblioteca-open-source) ||
+|Usando uma abordagem orientada a dados na criação e evolução de funcionalidades do aplicativo Pinterest para iOS   |[Rocir Santiago](https://twitter.com/@rmls)   | [Slides]()  ||
 
 #### 2017
 
