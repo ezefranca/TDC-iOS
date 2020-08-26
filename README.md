@@ -11,7 +11,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 |---|---|---|
 |[2020](#2020sp) |[2020](#2020fp)   | [2020](#2020poa)
 |[2019](#2019sp) |[2019](#2019fp)   | [2019](#2019poa)
-|[2018](#2018) |[2018](#2018)   | [2018](#2018)
+|[2018](#2018) |[2018](#2018floripa)   | [2018](#2018poa)
 |[2017](#2017sp) |[2017](#2017fp)   | [2017](#2017poa)
 |[2016](#2016sp) |[2016](#2016fp)   | [2016](#2016poa)
 |[2015](#2015sp) |    |
@@ -20,7 +20,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 [<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_sp.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC São Paulo
 
-#### 2018
+#### 2018sp
 
 |**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver) |
 |---|---|---|---|
@@ -167,6 +167,8 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 
 [<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_floripa.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC Florianópolis
+
+### 2018floripa
 
 #### 2017
 
