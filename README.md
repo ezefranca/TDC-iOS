@@ -20,7 +20,29 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 [<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_sp.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC São Paulo
 
-#### 2018
+### 2020
+
+|**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver)** |
+|-------------|------------------|--------------|---------------------------|
+|   |   |   |   | 
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
+### 2019
+
+|**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver)** |
+|-------------|------------------|--------------|---------------------------|
+|   |   |   |   | 
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
+### 2018
 
 |**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver)** |
 |---|---|---|---|
@@ -36,43 +58,20 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 |Por que eu criei uma biblioteca Open Source?   | [Ronan Rodrigo Nunes](https://twitter.com/ronanrodrigoo)  |  [Slides](https://speakerdeck.com/ronanrodrigo/por-que-eu-criei-uma-biblioteca-open-source) ||
 |Usando uma abordagem orientada a dados na criação e evolução de funcionalidades do aplicativo Pinterest para iOS   |[Rocir Santiago](https://twitter.com/@rmls)   | [Slides]()  ||
 
-#### 2017
+### 2017
 
-  * - Como lançar seu app na App Store e ficar rico (ou não)  
-	  + [Guilherme Rambo](https://github.com/insidegui)  
-	  + [Slides](https://www.slideshare.net/tdc-globalcode/tdc2017-so-paulo-trilha-ios-how-we-figured-out-we-had-a-sre-team-at-como-lanar-seu-app-na-app-store-e-ficar-rico-ou-no)
-  <br/> <br/>
-  * - Redux + RxSwift: fluxos undirecionais de dados  
-	  + [Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_)  
-	  + [Slides](https://pt.slideshare.net/tdc-globalcode/tdc2017-so-paulo-trilha-ios-how-we-figured-out-we-had-a-sre-team-at-redux-rxswift-fluxos-undirecionais-de-dados)
-  <br/> <br/>
-  * - Layout por código: aumentando sua produtividade e reuso de código  
-	  + [Francesco Perrotti-Garcia](https://github.com/fpg1503)  
-	  + [Slides](https://github.com/fpg1503/ProgrammaticLayoutTalk)
-  <br/> <br/>
-  * - iOS Security: Ataques a aplicações iOS (e como se proteger deles)   
-	  + [Bruno Rocha](https://twitter.com/@rockthebruno)  
-	  + [Slides]()
-  <br/> <br/>
-  * - Tricks & Tips do Realm no iOS  
-	  + [Rafael Kellermann Streit](https://twitter.com/rafaelks)  
-	  + [Slides]()
-  <br/> <br/>
-  * - Homebridge - Integrando o HomeKit com dispositivos IoT e automação  
-	  + [Alliston Carlos Rosa Aleixo](https://twitter.com/@allistoncarlos)  
-	  + [Slides]()
-  <br/> <br/>
-  * - UIView 101 - Um guia geral sobre como funciona UIView, CALayer e Autolayout  
-	  + [Bruno Gondim Bilescky](https://twitter.com/@bgondim)  
-	  + [Slides]()
-  <br/> <br/>
-  
-  * - Reconstruindo o Pinterest como um aplicativo escalável e de alta performance  
-	  + [Rocir Santiago](https://twitter.com/@rmls)  
-	  + [Video](https://pt-br.eventials.com/Globalcode/tdc-sp-2017-stadium-quinta-12/) 
-  <br/> <br/>
-  
-#### 2016
+|**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver)** |
+|---|---|---|---|
+|Como lançar seu app na App Store e ficar rico (ou não)   | [Guilherme Rambo](https://github.com/insidegui)| [Slides](https://www.slideshare.net/tdc-globalcode/tdc2017-so-paulo-trilha-ios-how-we-figured-out-we-had-a-sre-team-at-como-lanar-seu-app-na-app-store-e-ficar-rico-ou-no)| |
+|Redux + RxSwift: fluxos undirecionais de dados |[Fellipe Santiago Scarpa Caetano](https://twitter.com/fellipecaetano_) |[Slides](https://pt.slideshare.net/tdc-globalcode/tdc2017-so-paulo-trilha-ios-how-we-figured-out-we-had-a-sre-team-at-redux-rxswift-fluxos-undirecionais-de-dados) | |
+|Layout por código: aumentando sua produtividade e reuso de código | [Francesco Perrotti-Garcia](https://github.com/fpg1503)| [Slides](https://github.com/fpg1503/ProgrammaticLayoutTalk)| |
+|iOS Security: Ataques a aplicações iOS (e como se proteger deles) |[Bruno Rocha](https://twitter.com/@rockthebruno) | [Slides]()| |
+|Tricks & Tips do Realm no iOS |[Rafael Kellermann Streit](https://twitter.com/rafaelks) |[Slides]() | |
+|Homebridge - Integrando o HomeKit com dispositivos IoT e automação |[Alliston Carlos Rosa Aleixo](https://twitter.com/@allistoncarlos)  | [Slides]()| |
+|UIView 101 - Um guia geral sobre como funciona UIView, CALayer e Autolayout |[Bruno Gondim Bilescky](https://twitter.com/@bgondim)  |[Slides]() | |
+|Reconstruindo o Pinterest como um aplicativo escalável e de alta performance |[Rocir Santiago](https://twitter.com/@rmls) | |[Video](https://pt-br.eventials.com/Globalcode/tdc-sp-2017-stadium-quinta-12/) |
+ 
+### 2016
 
  * - A coisa mais sensacional que passou despercebida na WWDC  
 	  + [Francesco Perrotti-Garcia](https://github.com/fpg1503)  
@@ -107,7 +106,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 	  + [Slides](http://pt.slideshare.net/dchohfi/sharing-data-between-ios-apps)
  <br/> <br/> <br/>
  
-#### 2015
+### 2015
 
  * - Automation culture 
 	  + [Thiago Penna Lioy](https://github.com/thiagolioy)  
@@ -134,7 +133,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 	  + [Slides]()
  <br/> <br/> <br/>
 
-#### 2014
+### 2014
 
  * - iOS antipatterns  
 	  + [Hanneli Carolina Andreazzi Tavante](https://github.com/hannelita)  
@@ -170,7 +169,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 
 ### 2018
 
-#### 2017
+### 2017
 
  * - HomeKit 101
 	  + [Ezequiel França](https://github.com/ezefranca)   
@@ -216,7 +215,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 	  + [Slides]()
  <br/> <br/>
 
-#### 2016
+### 2016
 
  * - Do MV(X) ao VIP(ER) - Qual arquitetura devo usar? 
 	  + [Lucas Fonseca](https://github.com/lucasfonseca) | [Giovane Berny Possebon](https://github.com/giovanepossebon)  
@@ -273,13 +272,13 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 [<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_poa.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC Porto Alegre
 
-#### 2020
+### 2020
 
-#### 2019
+### 2019
 
-#### 2018
+### 2018
 
-#### 2017
+### 2017
 
 * - Constraints - O que são? De onde vêm? Do que se alimentam? 
 	  + [Aline Kolczycki Borges](https://twitter.com/@alieeen)
@@ -343,7 +342,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 	  + [Slides]()
 <br/> <br/>
 
-#### 2016
+### 2016
 
  * - Você está errando errado! Lidando com erros em Swift.
 	  + [Henrique Valcanaia](https://github.com/henriqueiv)  
