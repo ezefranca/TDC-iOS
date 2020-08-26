@@ -9,20 +9,20 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 
 |[TDC São Paulo](#tdc-são-paulo)   | [TDC Florianópolis](#tdc-florianópolis)  |  [TDC Porto Alegre](#tdc-porto-alegre)|
 |---|---|---|
-|[2020](#2020sp) |[2020](#2020fp)   | [2020](#2020poa)
-|[2019](#2019sp) |[2019](#2019fp)   | [2019](#2019poa)
-|[2018](#tdc-são-paulo#2018) |[2018](#tdc-florianópolis#2018)   | [2018](#tdc-porto-alegre#2018)
-|[2017](#2017sp) |[2017](#2017fp)   | [2017](#2017poa)
-|[2016](#2016sp) |[2016](#2016fp)   | [2016](#2016poa)
-|[2015](#2015sp) |    |
-|[2014](#2014sp) |    | 
+|[2020](#2020) |[2020](#2020-1)   | [2020](#2020-2)
+|[2019](#2019) |[2019](#2019-1)   | [2019](#2019-2)
+|[2018](#2018) |[2018](#2018-1)   | [2018](#2018-2)
+|[2017](#2017) |[2017](#2017-1)   | [2017](#2017-2)
+|[2016](#2016) |[2016](#2016-1)   | [2016](#2016-2)
+|[2015](#2015) |    |
+|[2014](#2014) |    | 
 
 [<img src="https://github.com/ezefranca/TDC-iOS/blob/master/others/logo_sp.jpg?raw=true" alt="TDC" align="right" width="80">](http://www.thedevelopersconference.com.br)
 ## TDC São Paulo
 
 #### 2018
 
-|**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver) |
+|**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver)** |
 |---|---|---|---|
 |Criando apps iOS escaláveis    |[Bruno Rocha](https://github.com/rockthebruno)   |[Slides](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-ios-criando-apps-ios-escalaveis)   ||
 |Swift no back-end com Vapor   |[Matheus Cardoso](https://twitter.com/@cardosodev)   | [Slides](https://speakerdeck.com/cardoso/server-side-swift-with-vapor)  ||
