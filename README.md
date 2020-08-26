@@ -26,7 +26,7 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 |-------------|------------------|--------------|---------------------------|
 |Tests mobile para IOS muito além do convencional    |[Natali Cabral]()   |   |   | 
 |Monorepo e microfeatures: o que nem todo mundo te conta...    | [Yasmin Benatti]()  |   |   |
-|O novo velho widget do iOS 14   |[Victoria Andressa Faria] ()   |   |   |
+|O novo velho widget do iOS 14   | [Victoria Andressa Faria]()   |   |   |
 |Acessibilidade: do design ao desenvolvimento   |[Milena Pauli]() e [Maria Eduarda Casanova Nascimento]()    |   |   |
 |Gestão de memória em iOS e descobertas de Leaks   | [Renata Faria Gomes ]()  |   |   |
 |SwiftUI no mundo real    | [Txai Wieser](https://github.com/txaiwieser)  |   |   |
