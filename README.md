@@ -24,23 +24,30 @@ Repositório com dados das palestras e palestrantes do [The Developers Conferenc
 
 |**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver)** |
 |-------------|------------------|--------------|---------------------------|
-|   |   |   |   | 
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Tests mobile para IOS muito além do convencional    |[Natali Cabral]()   |   |   | 
+|Monorepo e microfeatures: o que nem todo mundo te conta...    | [Yasmin Benatti]()  |   |   |
+|O novo velho widget do iOS 14   |[Victoria Andressa Faria] ()   |   |   |
+|Acessibilidade: do design ao desenvolvimento   |[Milena Pauli]() e [Maria Eduarda Casanova Nascimento]()    |   |   |
+|Gestão de memória em iOS e descobertas de Leaks   | [Renata Faria Gomes ]()  |   |   |
+|SwiftUI no mundo real    | [Txai Wieser](https://github.com/txaiwieser)  |   |   |
+|Como testar meu Swift e meu UI    | [Paulo Henrique Santos](https://github.com/henrique2601) e [Vitor Ferraz Varela]() |   |   |
 
 ### 2019
 
 |**Título**   | **Palestrante**  | **Slides**   | **Vídeo (quando houver)** |
 |-------------|------------------|--------------|---------------------------|
-|   |   |   |   | 
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Clean Swift: aumentando a performance, padronizando o código e aumentando a qualidade   | Douglas Taquary   |[Slides](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/ios/ZRM-5906_2019-07-16T022159_thedevconf_talk_release.pdf)   |   | 
+|Vapor 3: crie o backend do seu app em Swift e reutilize o model   |[Luciano Sclovsky]() e [Michel Anderson Lütz Teixeira]()    | [Slides](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/ios/BPM-7526_2019-07-20T022311_LucianoMichel-TDC19%20SP-Vapor3.key)  |   |
+|Modularizando seu app iOS com workspaces   |Jackson Smith Matias    |[Slides](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/ios/ZXW-4488_2019-07-18T060242_Modularizando%20seu%20app%20iOS%20com%20workspaces%20(2).pdf)   |   |
+|Utilizando mDNS para descobrir dispositivos em rede   |   |   |   |
+|RxSwift: uma introdução   |   |   |   |
+|Machine Learning no iOS: construindo um classificador com NaturalLanguage e CoreML    |   |   |   |
+|Apple ARKit: O Futuro da Realidade Aumentada?   |   |   |   |
+|Visualizing the RIBs Architecture    |   |   |   |
+|Atingindo alta testabilidade em seu código Swift   | Felipe Borges   |   |   |
+|Avoiding Release Anxiety: Building Stress-Free iOS Apps    | [Bruno Rocha](https://github.com/rockthebruno)  | [Slides](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/ios/HJJ-3354_2019-07-19T122718_AvoidingReleaseAnxiety50.pdf)  |   |
+|Clean and SOLID Swift   |  [Paulo Henrique Santos](https://github.com/henrique2601)  |[Slides](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2019SP/ios/PJP-2082_2019-07-21T035944_PresentationLink.pdf)   |   |
+
 
 ### 2018
 
